@@ -1,0 +1,1 @@
+mark ALL = NOPASSWD: /usr/sbin/ntpdate

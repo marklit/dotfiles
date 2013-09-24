@@ -1,0 +1,1 @@
+*/5 * * * * sudo /usr/sbin/ntpdate ntp.ubuntu.com pool.ntp.org 1>/dev/null
