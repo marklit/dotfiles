@@ -1,14 +1,14 @@
 top's Config File (Linux processes with windows)
 Id:f, Mode_altscr=0, Mode_irixps=1, Delay_time=3.000, Curwin=0
-Def	fieldscur=б╔б╗бЁб╢б╩б╫ц─ц└б╥б╨б╧ц┘&')*+,-./012568<>?ABCFGHIJKLMNOPQRSTUVWXYZ[
+Def	fieldscur=╔╗Ё╢╩╫юд╥╨╧е&')*+,-./012568<>?ABCFGHIJKLMNOPQRSTUVWXYZ[
 	winflags=32180, sortindx=21, maxtasks=0
 	summclr=1, msgsclr=1, headclr=3, taskclr=1
-Job	fieldscur=б╔б╕б╧б╥б╨бЁб╢ц└б╩б╪б╫б╖ц┘()*+,-./012568>?@ABCFGHIJKLMNOPQRSTUVWXYZ[
+Job	fieldscur=╔╕╧╥╨Ё╢д╩╪╫╖е()*+,-./012568>?@ABCFGHIJKLMNOPQRSTUVWXYZ[
 	winflags=62772, sortindx=0, maxtasks=0
 	summclr=6, msgsclr=6, headclr=7, taskclr=6
-Mem	fieldscur=б╔б╨б╩б╪б╫б╬б©ц─ц│ц┐ц└бЁб╢б╥ц┘&'()*+,-./0125689BFGHIJKLMNOPQRSTUVWXYZ[
+Mem	fieldscur=╔╨╩╪╫╬©юацдЁ╢╥е&'()*+,-./0125689BFGHIJKLMNOPQRSTUVWXYZ[
 	winflags=62772, sortindx=21, maxtasks=0
 	summclr=5, msgsclr=5, headclr=4, taskclr=5
-Usr	fieldscur=б╔б╕б╖б╗б╙б╟б╧б╥б╨ц└ц┘)+,-./1234568;<=>?@ABCFGHIJKLMNOPQRSTUVWXYZ[
+Usr	fieldscur=╔╕╖╗╙╟╧╥╨де)+,-./1234568;<=>?@ABCFGHIJKLMNOPQRSTUVWXYZ[
 	winflags=62772, sortindx=3, maxtasks=0
 	summclr=3, msgsclr=3, headclr=2, taskclr=3
