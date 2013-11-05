@@ -31,7 +31,7 @@ alias h=history
 
 alias gd='git df'
 alias gs='git status'
-alias gpom='git push origin master'
+alias gp='git push origin master'
 
 alias fd='fab deploy'
 
