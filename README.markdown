@@ -20,3 +20,9 @@ Here's a quick command to do it for you:
 ```bash
 echo 'source ~/dotfiles/bootstrap.sh' >> .bashrc
 ```
+
+## Requirements
+
+```
+$ sudo apt-get install python-virtualenv virtualenvwrapper
+```
