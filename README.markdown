@@ -14,3 +14,9 @@ Add the following to your `~/bash.rc` file:
 ```bash
 source ~/dotfiles/bootstrap.sh
 ```
+
+Here's a quick command to do it for you:
+
+```bash
+echo 'source ~/dotfiles/bootstrap.sh' >> .bashrc
+```
