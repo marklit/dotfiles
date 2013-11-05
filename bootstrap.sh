@@ -7,3 +7,4 @@ source $DIR/functions/extract.sh
 source $DIR/functions/fab.sh
 source $DIR/git/prompt.sh
 source $DIR/git/completion.sh
+source $DIR/django/virtualenv.sh
