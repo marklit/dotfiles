@@ -1,2 +1,9 @@
-source bash/config.sh bash/prompt.sh bash/aliases.sh \
-  django/completion.sh functions/extract.sh functions/fab.sh git/prompt.sh git/completion.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source $DIR/bash/config.sh
+source $DIR/bash/prompt.sh
+source $DIR/bash/aliases.sh
+source $DIR/django/completion.sh
+source $DIR/functions/extract.sh
+source $DIR/functions/fab.sh
+source $DIR/git/prompt.sh
+source $DIR/git/completion.sh
