@@ -29,12 +29,12 @@ alias v.cd=cdvirtualenv
 alias v.lssitepackages=lssitepackages
 alias h=history
 
-alias gd=git df
-alias gs=git status
-alias gpom=git push origin master
+alias gd='git df'
+alias gs='git status'
+alias gpom='git push origin master'
 
-alias fd=fab deploy
+alias fd='fab deploy'
 
-alias rs=python manage.py runserver 0.0.0.0:8000
-alias rpyc=find . | grep pyc | xargs rm
+alias rs='python manage.py runserver 0.0.0.0:8000'
+alias rpyc='find . | grep pyc | xargs rm'
 alias c=clear
