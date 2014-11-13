@@ -13,7 +13,7 @@ $ sudo apt-get install python-virtualenv virtualenvwrapper git-core
 Run this:
 
 ```bash
-git clone https://github.com/marklit/dotfiles.git ~/.dotfiles
+git clone https://github.com/marklit/dotfiles.git ~/dotfiles
 source dotfiles/bootstrap.sh
 ```
 
