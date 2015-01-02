@@ -34,4 +34,4 @@ alias fd='fab deploy'
 alias ft='fab test'
 
 alias rs='python manage.py runserver 0.0.0.0:8000'
-alias rpyc='find . | grep pyc | xargs rm'
+alias rpyc='find . | grep pyc$ | xargs rm'
