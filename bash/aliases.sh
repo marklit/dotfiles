@@ -22,13 +22,11 @@ alias h=history
 
 alias ga='git add -A'
 alias gb='git branch'
-alias gc='git commit'
 alias gd='git df'
 alias gl='git lg'
 alias gp='git push'
-alias gpo='git push origin'
-alias gpom='git push origin master'
 alias gs='git status'
+alias gprune='git fetch origin --prune'
 
 alias fd='fab deploy'
 alias ft='fab test'
