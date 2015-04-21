@@ -1,6 +1,6 @@
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python
 export WORKON_HOME=$HOME/.virtualenvs
-source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
+source /usr/local/bin/virtualenvwrapper.sh 
 export PIP_VIRTUALENV_BASE=$HOME/.virtualenvs
 export PIP_RESPECT_VIRTUALENV=true
 export PYTHONPATH=[location-of-django-applications]
