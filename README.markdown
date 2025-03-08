@@ -19,7 +19,6 @@ $ sudo apt install \
     unzip \
     zip
 
-
 $ git clone https://github.com/marklit/dotfiles.git ~/dotfiles
 $ echo 'source ~/dotfiles/bootstrap.sh' >> ~/.bashrc
 $ source ~/.bashrc
